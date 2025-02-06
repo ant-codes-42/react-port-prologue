@@ -7,10 +7,12 @@ export default function Home() {
                 <div className="container">
 
                     <header>
-                        <h2 className="alt">Hi! I'm <strong>Prologue</strong>, a <a href="http://html5up.net/license">free</a> responsive<br />
-                            site template designed by <a href="http://html5up.net">HTML5 UP</a>.</h2>
-                        <p>Ligula scelerisque justo sem accumsan diam quis<br />
-                            vitae natoque dictum sollicitudin elementum.</p>
+                        <div className="container">
+                            <h2 className="alt">Hi! I'm <strong>Anthony Schwab</strong>, a passionate
+                                <strong> technologist.</strong></h2>
+                            <p>A former network and telecommunications engineer...
+                                now a software developer.</p>
+                        </div>
                     </header>
 
                     <footer>
